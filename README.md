@@ -1,4 +1,4 @@
-# Blog App
+# Blog App 
 
 ## Authorship
 - Griffin Shewbart
@@ -22,6 +22,20 @@ This application allows users to log in (dummy login), view blog posts, add new 
   ![Homepage Screenshot](screenshots/homepage.screenshot.png)
 - Edit/Delete functionality example:
   ![Edit/Delete Screenshot](screenshots/edit.screenshot.png)
+
+## Validation Links
+- [HTML Validation Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgshew24.github.io%2Fblog-app%2F)
+- [Accessibility Evaluation Results](https://wave.webaim.org/report#/https://gshew24.github.io/blog-app/)
+- [Wireframe Page](https://gshew24.github.io/blog-app/pages/wireframe.html)
+
+
+## Future App Ideas
+- Add persistent data saving using LocalStorage or a real database.
+- Create user accounts with login authentication.
+- Allow users to upload blog post images.
+- Improve mobile responsiveness with a mobile-first layout.
+- Add categories/tags for different types of blog posts.
+- Build a full CRUD (Create, Read, Update, Delete) API backend to save posts.
 
 ## Code Snippet Highlight
 ```javascript
